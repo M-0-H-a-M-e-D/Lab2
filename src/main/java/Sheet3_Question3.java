@@ -117,7 +117,7 @@ public class Sheet3_Question3 {
         }
     }}
 
-
+System.out.println(state);
 DisplayDate();
     DisplayTIME();
     }
